@@ -1,6 +1,17 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\backend",
+    "\\backend\\core",
+    "\\my-app",
+    "\\my-app\\src",
+    "\\my-app\\src\\components",
+    "\\my-app\\src\\components\\LandingPageV1",
+    "\\my-app\\src\\styles",
+    "\\my-app\\src\\styles\\components",
+    "\\my-app\\src\\styles\\views",
+    "\\my-app\\src\\views"
   ],
+  "SelectedNode": "\\my-app\\src\\views\\LandingPageV1.js",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,5 @@
+# For frontend (React)
+cd "D:\Users\Ian\Desktop\NOVA\my-app"
+
+# For backend (Flask)
+cd "D:\Users\Ian\Desktop\NOVA\backend\core"

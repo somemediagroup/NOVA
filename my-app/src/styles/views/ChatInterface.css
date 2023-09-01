@@ -1,0 +1,23 @@
+#chatInterface {
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+.chatWindow {
+    height: 300px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    overflow-y: auto;
+}
+
+.textInput {
+    width: 80%;
+    padding: 10px;
+}
+
+.sendButton {
+    padding: 11px 20px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+}

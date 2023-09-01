@@ -1,0 +1,11 @@
+/* Global padding rule */
+table {
+    padding: 0 20px;
+}
+
+.full-screen {
+    width: 10%;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}

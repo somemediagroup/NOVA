@@ -1,0 +1,11 @@
+{
+  "GoogleOAuth": {
+    "client_id": "89221499509-ts7pt68irplku3g5b53jbsip4d48f5em.apps.googleusercontent.com",
+    "client_secret": "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",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token"
+  },
+  "GoogleDriveAPI": "AIzaSyArYKCRfXuXg6w0zgfiJYCQGu6dzhOAStI",
+  "TodoistAPI": "8d8834b6beacc4d6d1a1f1bbfef21b5cce2a8c9b",
+  "MicrosoftSpeechSDK": "0c7dace37f7c4e05ac23c8b262823924"
+}

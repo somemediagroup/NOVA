@@ -1,0 +1,21 @@
+#landingPageV2 {
+    background-color: #e6e6e6;
+    text-align: center;
+    padding: 50px;
+}
+
+.animatedLogo {
+    font-size: 36px;
+    font-weight: bold;
+    animation: spin 4s infinite;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}

@@ -1,0 +1,47 @@
+/* Default (Desktop) */
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#landingPageV1 {
+    background-color: green;
+    text-align: center;
+    padding: 20px;
+}
+
+/* TABLE CSS */
+.text-center {
+    text-align: center;
+}
+
+.p-5 {
+    padding: 1.25rem; /* 5 * 0.25rem = 1.25rem */
+}
+
+.rounded {
+    border-radius: 0.25rem;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+}
+
+
+/* Tablet */
+@media only screen and (max-width: 1024px) {
+    #landingPageV1 {
+        background-color: blue;
+    }
+}
+
+/* Mobile */
+@media only screen and (max-width: 600px) {
+    #landingPageV1 {
+        background-color: red;
+    }
+}

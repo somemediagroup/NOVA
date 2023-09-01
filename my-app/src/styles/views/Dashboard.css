@@ -1,0 +1,12 @@
+#dashboard {
+    background-color: #343a40;
+    color: white;
+    padding: 20px;
+}
+
+.userProfile,
+.quickActions,
+.recentActivity,
+.tabs {
+    margin-bottom: 20px;
+}
